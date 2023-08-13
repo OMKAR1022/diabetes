@@ -1,4 +1,4 @@
-Overview
+![Screenshot 2023-08-13 at 8 28 46 PM](https://github.com/OMKAR1022/diabetes/assets/101052148/2b850e14-7be0-4148-bd80-b3b52fd163f0)Overview
 
 This project aims to predict diabetes outcomes using machine learning techniques and provides a user-friendly web interface for easy access to the prediction model. By utilizing Support Vector Machines (SVM) with a linear kernel, we've achieved an accuracy of 81.82% on the diabetes dataset.
 
